@@ -53,3 +53,10 @@ sudo certbot --nginx -d YOUR_DOMAIN.duckdns.org
 ```
 
 ---
+## 📸 Project Showcase
+
+### 1. Active AWS Instance
+![AWS EC2 Dashboard](aws.png)
+
+### 2. Secure Live Browser Connection
+![Secure Connection Verification](live-site.png)
