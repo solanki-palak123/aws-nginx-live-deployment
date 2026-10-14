@@ -53,6 +53,3 @@ sudo certbot --nginx -d YOUR_DOMAIN.duckdns.org
 ```
 
 ---
-
-
-2. **Secure Live Browser Connection:** Showing the active custom landing page with the secure browser connection verified.
